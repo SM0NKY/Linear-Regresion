@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Si usas este trabajo, por favor cítalo como se indica a continuación."
+title: "Linear-Regresion"
+authors:
+  - family-names: "SM0NKY"
+    given-names: ""
+date-released: "2025-03-28"
+version: "1.0.0"
+repository-code: "https://github.com/SM0NKY/Linear-Regresion"
+doi: ""
